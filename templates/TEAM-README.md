@@ -1,4 +1,4 @@
-# [Team name]
+# [JJBR]
 
 **Track:** 1 Mobile-first church onboarding / 2 Testimony sharing / 3 Post-baptism discipleship
 **Team:** [names] · **Project Lead:** [name] · **Dev:** [name]
